@@ -1,0 +1,2 @@
+# Hemato-vision--Advanced-blood-cell-classification-using-Transfer-learning
+Hemato Vision – Advanced Blood Cell Classification Using Transfer Learning is a deep learning–based system that classifies blood cells from microscopic images. Using transfer learning with pre-trained CNN models, it improves accuracy and reduces training time. The system assists in early disease detection and supports faster, reliable.
